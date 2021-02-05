@@ -7,4 +7,4 @@ Privacy Shield is Firefox addon for private browsing by changing browser metadat
 - Auto disable webrtc
 - Starts working immediately after installation, without requiring any settings
 
-Updating data: right click on icon to update all browser metadata, left click for update one of them
+Updating data: left click on icon to update all browser metadata, right click for update one of them
