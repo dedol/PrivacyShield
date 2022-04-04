@@ -8,3 +8,12 @@ Privacy Shield is Firefox addon for private browsing by changing browser metadat
 - Starts working immediately after installation, without requiring any settings
 
 Updating data: left click on icon to update all browser metadata, right click for update one of them
+
+### Pop up notify when changing metadata
+<img src="https://dedol.ru/img/PrivacyShield_img1.png">
+
+### Showing current (changed) metadata
+<img src="https://dedol.ru/img/PrivacyShield_img2.png">
+
+### Result
+<img src="https://dedol.ru/img/PrivacyShield_img3.png">
